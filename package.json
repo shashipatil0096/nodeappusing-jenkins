@@ -1,0 +1,13 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Simple Node CI/CD app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
